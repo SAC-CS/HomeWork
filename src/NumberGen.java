@@ -13,3 +13,4 @@ public class NumberGen {
 			
 	}
 
+//Please add methods and constructor, Jacob.  What are those?  Please see week 8 slides.
